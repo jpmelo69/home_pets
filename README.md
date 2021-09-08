@@ -14,4 +14,6 @@ Requisitos. Para esse artigo você deve ter instalado em seu computador o Larave
 
 7° No prompt execute o comando --php artisan serve;
 
-8° Seu projeto irá iniciar na porta 8000 que é a porta padrão do laravel.
+8° Seu projeto irá iniciar na porta 8000 que é a porta padrão do laravel;
+
+9° Vá em Register no canto superior direito e crie uma conta para testar;
