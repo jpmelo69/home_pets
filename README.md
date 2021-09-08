@@ -1,4 +1,4 @@
-Requisitos. Para esse artigo você deve ter instalado em seu computador o Laravel 8 e a versão 8 ou maior do PHP e as extensões OpenSSL PHP, PDO PHP, Mbstring PHP, Tokenizer. Também precisará ter instalado o Composer, um servidor como Apache/Nginx e um editor de código ou IDE de sua preferência.
+Requisitos. Para esse artigo você deve ter instalado em seu computador o Laravel 8 e a versão 8 ou maior do PHP e as extensões OpenSSL PHP, PDO PHP, Mbstring PHP, Tokenizer.  Também precisará ter instalado o NodeJS, o Composer, um servidor como Apache/Nginx e um editor de código ou IDE de sua preferência.
 
 1° Faça um fork deste repositório;
 
